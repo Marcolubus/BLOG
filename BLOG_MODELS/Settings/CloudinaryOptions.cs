@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BLOG_MODELS.Settings
 {
-    public class Cloudinary
+    public class CloudinaryOptions
     {
         public string CloudName { get; set; }
         public string ApiKey { get; set; }
